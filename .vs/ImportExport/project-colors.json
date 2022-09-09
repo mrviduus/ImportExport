@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd5c127b-d291-4836-a014-995aeec78933": {
+      "ProjectGuid": "dd5c127b-d291-4836-a014-995aeec78933",
+      "DisplayName": "ImportExportCommon",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "78c23473-fc88-48d8-bf61-0ee4c551148a": {
+      "ProjectGuid": "78c23473-fc88-48d8-bf61-0ee4c551148a",
+      "DisplayName": "FileImport",
+      "ColorIndex": 1
+    },
+    "080dd407-5021-471a-a621-2a38d431fdbd": {
+      "ProjectGuid": "080dd407-5021-471a-a621-2a38d431fdbd",
+      "DisplayName": "FileExport",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

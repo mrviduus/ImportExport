@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "BedtwcTPe03B8vdyoLlGtPpJxN8o7lGpBS84fc4dA4uCDkZAxzMmBbixVcF2WA6h22a1dnxR/vsq+1g+rSPLJA==",
+  "dgSpecHash": "Yz+hrZC2pIt2qCxvyogQs68kA1WjgOO3133BgFlRV2RB8HCaZIpmwopigXi94h/kz9rb2QOQa2TA4N8iZHF3kA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\ImportExport\\ImportExport\\FileExport\\FileExport.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mrvid\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\mrvid\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
